@@ -9,8 +9,7 @@ cd Adafruit_Python_DHT
 sudo apt-get install build-essential python-dev
 
 sudo python setup.py install
-
-# To use python3
+to use python3
 sudo pip3 install Adafruit_DHT
 
 cd to your favorite directory
